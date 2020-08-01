@@ -1,0 +1,288 @@
+﻿{
+  "name": "Sn0wCooder Source",
+  "identifier": "sn0wcooder.source",
+  "apps": [
+    {
+      "name": "unc0ver",
+      "bundleIdentifier": "science.xnu.undecimus",
+      "developerName": "Pwn20wnd & Sam Bingner",
+      "subtitle": "The most advanced jailbreak tool.",
+      "version": "5.2.0",
+      "versionDate": "2020-09-06T14:30:00-07:00",
+      "versionDescription": "• Enable iOS 13.5.5~b1 support;\n• Fix a logic bug in disabling auto updates;\n• Update bundled Cydia to fix crashes on iOS 13.5 with Hardware Keyboard enabled.",
+      "downloadURL": "https://github.com/pwn20wndstuff/Undecimus/releases/download/v5.2.0/unc0ver_5.2.0.ipa",
+      "localizedDescription": "unc0ver is a jailbreak, which means that you can have the freedom to do whatever you would like to do to your iOS device. Allowing you to change what you want and operate within your purview, unc0ver unlocks the true power of your iDevice.\n\nCompatibility:\nunc0ver supports iOS 11.0 through to iOS 13.3 (Excluding 12.3-12.3.2).\n\nStability:\nUtilizing the latest stable APT and Mobile Substrate, stability is guaranteed.",
+      "iconURL": "https://raw.githubusercontent.com/pwn20wndstuff/Undecimus/master/Undecimus/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png",
+      "tintColor": "cdcecf",
+      "size": 43235739,
+      "screenshotURLs": [
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/unc0ver/image1.png",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/unc0ver/image2.png",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/unc0ver/image3.png"
+      ]
+    },
+    {
+      "name": "iTorrent",
+      "bundleIdentifier": "ru.nonamedude.iTorrent",
+      "developerName": "XITRIX",
+      "subtitle": "Straightforward iOS torrent client app",
+      "version": "1.7.4.1",
+      "versionDate": "2020-03-19T14:30:00-07:00",
+      "versionDescription": "Fixed:\n\n• Background mode not work if zero speed limit disabled\n\nWhat's new:\n\n• Added https protocol support for trackers!\n• FTP server replaced by WebDAV, file sharing is now possible through a web browser\n• Added background stop when downloading at zero speed\n• Clicking on a notification now opens a specific window\n• UI improvements",
+      "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/1.7.4Hotfix/iTorrent.ipa",
+      "localizedDescription": "iTorrent is an ordinary torrent client for iOS with Files app support.\n\nWhat can this app do:\n\n• Download in the background\n• Sequential download (use VLC to watch films while loading)\n• Add torrent files from Share menu (Safari and other apps)\n• Add magnet links directly from Safari\n• Store files in Files app (iOS 11+)\n• File sharing directly from app\n• Download torrent by link\n• Download torrent by magnet\n• Send notification on torrent downloaded\n• FTP Server (unstable)\n• Select files to download or not\n• Change UI to dark theme\n\nNow supporting these localizations:\n• English\n• Russian",
+      "iconURL": "https://github.com/Sn0wCooder/things/raw/master/AltStore/icons/itorrent.png",
+      "tintColor": "fd0a0e",
+      "size": 20132659,
+      "screenshotURLs": [
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/itorrent/image1.png",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/itorrent/image2.png",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/itorrent/image3.png",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/itorrent/image4.png"
+      ]
+    },
+    {
+      "name": "AirFloat",
+      "bundleIdentifier": "com.tren.AirFloat",
+      "developerName": "Kristian Trenskow",
+      "subtitle": "iOS AirPlay modifier",
+      "version": "1.3.2",
+      "versionDate": "2018-08-01T14:30:00-07:00",
+      "versionDescription": "Initial release",
+      "downloadURL": "https://github.com/Sn0wCooder/things/raw/master/AltStore/ipas/AirFloat_v1.3.2.ipa",
+      "localizedDescription": "AirFloat implements the RAOP (Remote Audio Output Protocol) also known as AirPlay Audio. Essentially this app turns your iPhone into an AirPlay audio receivier like the AirPort Express.",
+      "iconURL": "https://github.com/Sn0wCooder/things/raw/master/AltStore/icons/airfloat.png",
+      "tintColor": "d9d9d9",
+      "size": 4404522,
+      "screenshotURLs": [
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/airfloat/1.png",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/airfloat/2.png",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/airfloat/3.png",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/airfloat/4.png"
+      ]
+    },
+    {
+      "name": "BarMagnet",
+      "bundleIdentifier": "consulting.monadic.BarMagnet",
+      "developerName": "Carlo Tortorella",
+      "subtitle": "A torrent remote control",
+      "version": "2.0.1",
+      "versionDate": "2019-10-23T14:30:00-07:00",
+      "versionDescription": "Initial release",
+      "downloadURL": "https://github.com/Sn0wCooder/things/raw/master/AltStore/ipas/BarMagnet_v2.0.1.ipa",
+      "localizedDescription": "BarMagnet is a powerful torrent remote controller for iOS gorgeously designed to fit in with your iOS 7 and up device. It was created by talented developer, Carlo Tortorella. The project started as a simple program that copy magnet links to the clipboard, but quickly became much more when he couldn’t find an app to do exactly what he needed.\nThis app can connect to a multitude of torrenting applications. It currently supports Deluge, qBittorrent, ruTorrent\n(HTTPRPC plugin), rTorrent (XMLRPC), SeedStuff, Synology, Transmission, Vuze, and uTorrent.\nIt also includes a query system that lets you easily search any torrent website that inserts the query into the URL, while also letting you add extra modifiers to automatically sort by whichever parameter you desire.\n\nFeatures:\n• Multiple clients support;\n• Query system for search;\n• Multiple ordering;\n• Cell Style Change;\n• QR Scanner;\n• Change order list.",
+      "iconURL": "https://github.com/Sn0wCooder/things/raw/master/AltStore/icons/barmagnet.png",
+      "tintColor": "e42c2b",
+      "size": 777119,
+      "screenshotURLs": [
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/barmagnet/1.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/barmagnet/2.PNG"
+      ]
+    },
+    {
+      "name": "iDeviceWalls",
+      "bundleIdentifier": "com.junesiphone.idevicewallsapp",
+      "developerName": "JunesiPhone",
+      "subtitle": "iOS Wallpapers App",
+      "version": "1.0",
+      "versionDate": "2020-03-25T14:30:00-07:00",
+      "versionDescription": "Initial release",
+      "downloadURL": "https://github.com/Sn0wCooder/things/raw/master/AltStore/ipas/iDeviceWalls_v1.4.ipa",
+      "localizedDescription": "Amazing wallpaper app with the ability to save wallpaper directly to lockscreen or springboard. No longer have a camera roll full of wallpapers!",
+      "iconURL": "https://github.com/Sn0wCooder/things/raw/master/AltStore/icons/idevicewalls.png",
+      "tintColor": "2e2b2b",
+      "size": 573994,
+      "screenshotURLs": [
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/idevicewalls/1.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/idevicewalls/2.PNG"
+      ]
+    },
+    {
+      "name": "ScreenshotX",
+      "bundleIdentifier": "com.junesiphone.screenshotx",
+      "developerName": "JunesiPhone",
+      "subtitle": "Give your screenshot style!",
+      "version": "0.3",
+      "versionDate": "2020-03-25T14:30:00-07:00",
+      "versionDescription": "Initial release",
+      "downloadURL": "https://github.com/Sn0wCooder/things/raw/master/AltStore/ipas/ScreenshotX_v0.3.ipa",
+      "localizedDescription": "Give your screenshots style!\nScreenshot is an easy to use app that allows you to put your screenshots in an iPhone mockup. Great for showing off your setup to friends or making promotional images of your tweak, app, theme, or widget.\n\n• 3D touch icon for supported devices (allows quick navigation to your favorite mockup);\n• iPhone Scenes (a phone in a hand or on a desk, somewhat natural environment);\n• Dual iPhones (yes you can show your lockscreen and springboard in one mockup!);\n• Single iPhones (centered phone with option to add a background and glare);\n• Full HD iPhones (screenshot at it’s full size);\n• Twitter share button (share images without saving to camera roll);\n• Each mockup has the option to add glare on the phone and a background layer which can be blurred;\n• Any mockup besides the Full Resolution is sized 1080 x 1080 to be compatible with many social networks like Instagram, Facebook, Tumblr, and Twitter.",
+      "iconURL": "https://github.com/Sn0wCooder/things/raw/master/AltStore/icons/screenshotx.png",
+      "tintColor": "3b3b43",
+      "size": 29795602,
+      "screenshotURLs": [
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/screenshotx/1.jpg",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/screenshotx/2.jpg",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/screenshotx/3.jpg",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/screenshotx/4.jpg",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/screenshotx/5.jpg",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/screenshotx/6.jpg",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/screenshotx/7.jpg",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/screenshotx/8.jpg"
+      ]
+    },
+    {
+      "name": "Rocket for Instagram",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "Majd Alfhaily & freitasrod",
+      "subtitle": "Save stories, photos and much more!",
+      "version": "135.0",
+      "versionDate": "2020-03-31T07:30:00-07:00",
+      "versionDescription": "Instagram v135.0",
+      "downloadURL": "https://github.com/Sn0wCooder/ExtensifyIPAs/releases/download/Instagram-v135.0-InstagramShowLikes-v0.0.1_1-Rocket-v3.6.12/Instagram_v135.0_InstagramShowLikes_v0.0.1_1_Rocket_v3.6.12.ipa",
+      "localizedDescription": "Instagram v135.0, Rocket v3.6.12, InstagramShowLikes v0.0.1_1\n\nInstagramShowLikes allows you to view the number of likes on photos and videos.\n\nRocket enriches Instagram client with loads of features.\nStarting from saving posts, reposting, checking if other users follow you and many more.\n\nFeatures:\n• Save any photo to Camera Roll;\n• Save any video to Camera Roll;\n• Hold down on an image to view high resolution version of it;\n• Hold down on a video to view high resolution version of it;\n• Double tap or hold on a profile image to view it in full screen;\n• Mute and Unmute users from home and activity feed;\n• Hide sponsored posts;\n• Show following status on user profile;\n• Share images using default iOS share sheet;\n• View direct messages without notifying sender;\n• Easily toggle feed layout between grid and list with a press of a button;\n• Confirmation alert when you double-tap a post to like;\n• Tap times inside a post cell to show full timestamp.",
+      "iconURL": "https://github.com/Sn0wCooder/things/raw/master/AltStore/icons/rocket.png",
+      "tintColor": "feb835",
+      "size": 67111527,
+      "screenshotURLs": [
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/rocket/1.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/rocket/2.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/rocket/3.jpg",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/rocket/4.jpg",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/rocket/5.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/rocket/6.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/rocket/7.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/rocket/8.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/rocket/9.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/rocket/10.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/rocket/11.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/rocket/12.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/rocket/13.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/rocket/14.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/rocket/15.PNG"
+      ]
+    },
+    {
+      "name": "Cercube for YouTube",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "Majd Alfhaily",
+      "subtitle": "Download YouTube videos, block ads and much more!",
+      "version": "15.12.5",
+      "versionDate": "2020-03-25T14:30:00-07:00",
+      "versionDescription": "Added compatibility for YouTube v15.10.3",
+      "downloadURL": "https://github.com/Sn0wCooder/things/releases/download/first-release/YouTube_v15.12.5_Cercube5_v5.1.10.ipa",
+      "localizedDescription": "YouTube v15.12.5, Cercube v5.1.10\n\nCercube not only gives you the features that are missing from YouTube, but it also gives you full control over the app.\n\nFeatures:\n• Save videos up to 4K resolution;\n• Save videos as audio only;\n• Set default download quality;\n• Manage and share downloads to any app;\n• Import downloads to Music or Videos;\n• Play YouTube videos using PiP;\n• Set default player quality on WiFi;\n• Set default player quality on 3G/4G;\n• Block all advertisements;\n• Enable background playback;\n• Play in high quality on Mobile Data.",
+      "iconURL": "https://github.com/Sn0wCooder/things/raw/master/AltStore/icons/cercube.png",
+      "tintColor": "dc3122",
+      "size": 95583027,
+      "screenshotURLs": [
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/cercube/1.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/cercube/2.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/cercube/3.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/cercube/4.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/cercube/5.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/cercube/6.PNG"
+      ]
+    },
+    {
+      "name": "Watusi & Stalky for WhatsApp",
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
+      "developerName": "Fouad Raheb",
+      "subtitle": "The all-in-one tweak for WhatsApp Messenger",
+      "version": "2.20.40",
+      "versionDate": "2020-03-31T07:30:00-07:00",
+      "versionDescription": "WhatsApp v2.20.40",
+      "downloadURL": "https://github.com/Sn0wCooder/ExtensifyIPAs/releases/download/WhatsApp-v2.20.40-Stalky-v4.1.3-Watusi2-v1.2.36/WhatsApp_v2.20.40_Stalky_v4.1.3_Watusi2_v1.2.36.ipa",
+      "localizedDescription": "WhatsApp v2.20.40, Watusi 2 v1.2.36, Stalky v4.1.3\n\nWATUSI DESCRIPTION:\n\nWatusi will make WhatsApp easier and simpler to use, allowing you to change every part of the app to satisfy your needs. Some of its features:\n\n• Freeze your last seen and control your read receipts;\n• Keep your contacts deleted messages and statuses;\n• Status Add-ons: Never let your friends know that you viewed their statuses – Download any status – disable auto-advance – Privacy contact groups;\n• Auto-reply can reply to your messages automatically;\n• Schedule messages to be sent at a specific date and time;\n• Blacklist some contacts in order to stop receiving & showing their messages in the chats but instead read their messages in a private location;\n• Voice/Video call buttons will let you pick whether you want to WA call or carrier call;\n• Set app passcode or by TouchID – or just lock a specific chat;\n• Compose a chat by just inserting the phone number instead of creating a new contact;\n• Group button to show all your groups together;\n• View contact's profile picture by tapping on it from the chat list;\n• New Watusi sharing sheet will change your WhatsApp sharing experience;\n• Send unlimited number of photos at once;\n• Shrink those large emojis back;\n• Hide any button that annoys your WhatsApp usage;\n• Customize your WhatsApp notifications in many ways like replacing the icon with your contact’s profile picture;\n• Change the app and chats theme by picking any fonts & colors you like;\n• And much, much more!\n\nThe tweak is available in English, Arabic, German, Spanish, French, Italian, Portuguese, Turkish.\n\nConfigure options from inside WhatsApp settings.\n\nSTALKY DESCRIPTION:\n\nEver wanted to check your friends recent status and profile picture updates on WhatsApp? Here's a tweak that will add all your contacts updates into one page where you can view the images and read statuses updates.\n\nFeatures:\n\n• Get a list of all your friends updates sorted by time;\n• Filter updates list to show only about/picture/group/statuses updates;\n• A seperate list for your favorites contacts;\n• Access all your contact saved profile pictures;\n• Save/share your contact profile pictures by using long press gesture on the update cell;\n• Copy/share your contact status updates just by tapping on the cell.\n\nNote:\n\nWhatsApp server will hold only one profile picture for every contact, therefore if your contact has changed his picture multiple times when your WhatsApp was closed, we are unable to fetch the old images once you open WhatsApp again. \nThis is why 'Background Fetch' feature is there, it will just let your WhatsApp active in background in order to download your contact picture changes directly as they are updated.",
+      "iconURL": "https://github.com/Sn0wCooder/things/raw/master/AltStore/icons/watusi.png",
+      "tintColor": "3c9cfb",
+      "size": 94045231,
+      "screenshotURLs": [
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/watusi/1.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/stalky/stalky0.jpg",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/watusi/2.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/watusi/3.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/watusi/4.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/watusi/5.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/watusi/6.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/watusi/7.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/watusi/8.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/watusi/9.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/watusi/10.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/watusi/11.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/watusi/12.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/watusi/13.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/watusi/14.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/watusi/15.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/watusi/16.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/watusi/17.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/watusi/18.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/watusi/19.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/watusi/20.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/watusi/21.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/watusi/22.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/watusi/23.PNG"
+      ]
+    },
+    {
+      "name": "Sposify for Spotify",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "aesthyrica",
+      "subtitle": "Add enhancements to Spotify",
+      "version": "8.5.51",
+      "versionDate": "2020-03-31T07:30:00-07:00",
+      "versionDescription": "Spotify v8.5.51",
+      "downloadURL": "https://github.com/Sn0wCooder/ExtensifyIPAs/releases/download/spotify-v8.5.51-sposify-v8.5.49/Spotify_v8.5.51_Sposify_v8.5.49.ipa",
+      "localizedDescription": "Spotify v8.5.51, Sposify v8.5.49\n\nSposify is a tweak which adds various enhancements to the Spotify application on iOS.\n\nInstructions:\n\n• Go into Spotify Settings then tap the Burger Menu Icon for the Sposify Menu.\n\nHome Additions:\n\n• Connect Access Button;\n• Import Your Music;\n• Voice Search;\n• Verified Profile Badge;\n• No Burger Menu Icon on Lockscreen.\n\nYour Library Additions:\n\n• Show Album & Artist Recommendations;\n• Create Playlist New Interface;\n• Open Canvas Playlist;\n• True Shuffle;\n• No Shuffle on Big Play Button;\n• Hide Create Playlist;\n• Old Artists & Playlists Interface;\n• View Artists Offline.\n\nNow Playing View Additions:\n\n• Long Press on any Canvas to Save them;\n• Align Text to Top;\n• Auto Hide Duration Labels;\n• Blackout Mode;\n• Canvas Choice Button;\n• Canvas Tap;\n• Car View;\n• Show Statusbar;\n• Realtime Lyrics Button;\n• Realtime Lyrics Popup.\n\nNow Playing View Annoyances:\n\n• Disable Genius Lyrics;\n• Disable Storylines;\n• Disable Canvas;\n• Disable Queue Screen Controls;\n• Disable Social Listening Section.",
+      "iconURL": "https://github.com/Sn0wCooder/things/raw/master/AltStore/icons/spotify.png",
+      "tintColor": "1cd363",
+      "size": 53367911,
+      "screenshotURLs": [
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/sposify/1.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/sposify/2.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/sposify/3.PNG",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/sposify/4.PNG"
+      ]
+    },
+    {
+      "name": "Flappy Bird",
+      "bundleIdentifier": "com.thatcherdev.flappybird",
+      "developerName": "Brandon Plank",
+      "subtitle": "A near perfect clone to the original",
+      "version": "1.8",
+      "versionDate": "2020-03-27T14:30:00-07:00",
+      "versionDescription": "Bug fixes.",
+      "downloadURL": "https://github.com/brandonplank/flappybird/releases/download/1.8/org.brandonplank.flappybird_1.8.ipa",
+      "localizedDescription": "This Flappy Bird is an extremely close clone to the original FlappyBird by Dong Nguyen.\n\n• Tap to flap\n• Avoid the hitting the pipes\n• Flap for infinity!",
+      "iconURL": "https://github.com/brandonplank/flappybird/raw/master/FlappyBird/Assets.xcassets/AppIcon.appiconset/87.png",
+      "tintColor": "69d56f",
+      "size": 13959187,
+      "screenshotURLs": [
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/flappybird/image1.png",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/flappybird/image2.png",
+        "https://github.com/Sn0wCooder/things/raw/master/AltStore/screenshots/flappybird/image3.png"
+      ]
+    },
+    {
+      "name": "UTM",
+      "bundleIdentifier": "com.osy86.UTM",
+      "developerName": "osy86",
+      "subtitle": "Any OS, Anywhere.",
+      "version": "1.0",
+      "versionDate": "2020-06-19T14:30:00-07:00",
+      "versionDescription": "• Improved contrast of buttons and spinner;\n• Added pull-to-refresh on home screen;\n• Fix alignment and display issues with activity indicator popup.",
+      "downloadURL": "https://github.com/utmapp/UTM/releases/download/v1.0/UTM.ipa",
+      "localizedDescription": "UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad. More information at https://getutm.app/\n\nFeatures\n\n• 30+ processors supported including x86_64, ARM64, and RISC-V thanks to qemu as a backend\n• Fast native graphics through para-virtualization thanks to SPICE\n• JIT based acceleration using qemu TCG\n• Frontend designed from scratch for iOS11+ using the latest and greatest APIs\n• Create, manage, run VMs directly from your device",
+      "iconURL": "https://github.com/utmapp/UTM/raw/master/UTM/Assets.xcassets/AppIcon.appiconset/icon_83.5%402x.png",
+      "tintColor": "2044cd",
+      "size": 130602898,
+      "beta": false,
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/Sn0wCooder/things/master/AltStore/screenshots/utm/image1.png",
+        "https://raw.githubusercontent.com/Sn0wCooder/things/master/AltStore/screenshots/utm/image2.png"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "Welcome to Sn0wCooder's repo!",
+      "identifier": "welcome-to-sn0wcooder",
+      "caption": "Please read the FAQ for help with installing apps.",
+      "tintColor": "3399ff",
+      "url": "https://sn0wcooder.github.io/things/AltStore/welcome.html",
+      "date": "2019-09-28",
+      "notify": true
+    }
+  ],
+  "userInfo": {}
+}
